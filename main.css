@@ -1,0 +1,53 @@
+body{
+    background-color: gray;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.img{
+    text-align: center;
+}
+.img img{
+    border: 10px solid white;
+    width: -webkit-fill-available;
+    
+}
+.card{
+    margin: 0px 10px 0px 0px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: justify;
+    width: -webkit-fill-available;
+}
+.cards{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    
+}
+.cards img{
+    width: -webkit-fill-available;
+}
+table, th, td {
+    
+    border-collapse: collapse;
+  }
+.cont{
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+    background-color: aliceblue;
+}
+.para{
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+}
+.para img{
+    margin: 3px;
+}
+.para1{
+    text-align: justify;
+    padding: 10px;
+}
+
+
